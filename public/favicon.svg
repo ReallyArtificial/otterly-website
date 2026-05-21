@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- On-brand: warm cream bg with amber "o" and a tiny wave stroke for otter personality -->
+  <rect width="32" height="32" rx="8" fill="#f8f5ed"/>
+  <text x="16" y="23" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-weight="700" font-size="18" fill="#c4652a">o</text>
+  <!-- Subtle wave under the "o" — otter in water -->
+  <path d="M8 26 q4 -2 8 0 q4 2 8 0" stroke="#c4652a" stroke-width="1.2" fill="none" opacity="0.45" stroke-linecap="round"/>
+</svg>
