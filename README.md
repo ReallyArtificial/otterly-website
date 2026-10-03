@@ -1,11 +1,12 @@
 # otterly-website
 
-The marketing site for **[otterly](https://github.com/josharsh/otterly)** —
+The marketing site for **[otterly](https://github.com/ReallyArtificial/otterly)** —
 the npm package that turns your Claude Code subscription into a local
 OpenAI-compatible API.
 
-Live at: [otterly.vercel.app](https://otterly.vercel.app)
-(or wherever you've deployed it).
+A [Really Artificial](https://www.reallyartificial.org) project.
+
+Live at: [otterly.josharsh.com](https://otterly.josharsh.com). The existing domain remains available after the GitHub organization transfer.
 
 This repo is intentionally separate from the package repo so it can move
 on a different cadence — marketing copy, design refinements, and Vercel

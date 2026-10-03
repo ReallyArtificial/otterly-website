@@ -40,6 +40,7 @@ export function Footer() {
             </div>
             <div className="text-sm text-ink-2 max-w-xs leading-relaxed">
               OpenAI-compatible local server for Claude Code.
+              <a href="https://www.reallyartificial.org" className="block mt-2 hover:text-ink transition-colors">A Really Artificial project ↗</a>
             </div>
             <div className="font-mono text-[10px] uppercase tracking-[0.2em] text-ink-3 flex items-center gap-2">
               <span>v{VERSION}</span>

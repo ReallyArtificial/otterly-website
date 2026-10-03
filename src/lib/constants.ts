@@ -1,4 +1,4 @@
-export const GITHUB_URL = "https://github.com/josharsh/otterly";
+export const GITHUB_URL = "https://github.com/ReallyArtificial/otterly";
 export const NPM_URL = "https://www.npmjs.com/package/otterly";
 export const VERSION = "0.4.1";
 
